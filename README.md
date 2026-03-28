@@ -47,18 +47,10 @@
 <img src="https://skillicons.dev/icons?i=git,github,vscode,figma,ps" />
 </p>
 
-  <a href="https://github.com/Jeevanantham10082003">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Jeevanantham10082003&repo=jarvis-assistant&theme=radical" />
-  </a>
-</p>
-
 ---
 
-## 🌍 Live Portfolio Preview
-
-<p align="center">
-  <a href="https://jeevanantham10082003.github.io/portfolio">
-    <img src="https://image.thum.io/get/width/800/https://jeevanantham10082003.github.io/portfolio" />
+  <a href="https://github.com/Jeevanantham10082003">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Jeevanantham10082003&repo=jarvis-assistant&theme=radical" />
   </a>
 </p>
 
