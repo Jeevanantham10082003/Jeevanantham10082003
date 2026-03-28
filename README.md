@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Jeevanantham</h1>
-<h3 align="center">🚀 Frontend Developer | ECE Student | Tech Enthusiast |UI & UX Designer</h3>
+<h3 align="center">🚀 Frontend Developer | ECE Student | UI/UX Designer</h3>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00c6ff,100:0072ff&height=200&section=header&text=Jeevanantham&fontSize=40&fontColor=ffffff" />
 
@@ -13,7 +13,7 @@
   <a href="mailto:jeevan66lava@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail" />
   </a>
-  <a href="https://https://jeevanantham10082003.github.io/portfolio">
+  <a href="https://jeevanantham10082003.github.io/portfolio">
     <img src="https://img.shields.io/badge/Portfolio-black?style=for-the-badge&logo=firefox" />
   </a>
 </p>
@@ -22,10 +22,10 @@
 
 ## 🧑‍💻 About Me
 - 🎓 ECE Student passionate about tech  
-- 💻 Building **Embbeded and IT & IoT Projects**  
-- 🌱 Currently learning **Full Stack Development**  
-- ⚡ Love solving real-world problems with code  
-- 🎯 Goal: Become a **Software Engineer**
+- 💻 Building **Embedded Systems & IoT Projects**  
+- 🌱 Learning **Full Stack Development**  
+- ⚡ Love solving real-world problems  
+- 🎯 Goal: Software Engineer  
 
 ---
 
@@ -33,7 +33,7 @@
 
 ### 🚀 Frontend
 <p>
-<img src="https://skillicons.dev/icons?i=html,css,js," />
+<img src="https://skillicons.dev/icons?i=html,css,js" />
 </p>
 
 ### ⚙️ Backend
@@ -48,21 +48,19 @@
 
 ### 🧰 Tools
 <p>
-<img src="https://skillicons.dev/icons?i=git,github,vscode,Figma,Canva,Photoshop" />
+<img src="https://skillicons.dev/icons?i=git,github,vscode,figma,ps" />
 </p>
 
 ---
 
 ## 📊 GitHub Stats
-
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=[Jeevanantham10082003](https://github.com/Jeevanantham10082003/Jeevanantham10082003)&show_icons=true&theme=radical" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Jeevanantham10082003&show_icons=true&theme=radical" />
 </p>
 
 ---
 
 ## 🔥 GitHub Streak
-
 <p align="center">
   <img src="https://streak-stats.demolab.com/?user=Jeevanantham10082003&theme=radical" />
 </p>
@@ -70,7 +68,6 @@
 ---
 
 ## 🏆 Top Languages
-
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jeevanantham10082003&layout=compact&theme=radical" />
 </p>
@@ -78,14 +75,12 @@
 ---
 
 ## 🚀 Projects
-
 - 🌱 Smart Greenhouse Web App  
 - 🤖 IoT Based Smart Systems  
-- 📡 Mini CNC Machine (Arduino)  
-- 🎙️ JARVIS Voice Assistant
-- 404 “Page Not Found” UI
-- Modern Glassmorphism Login UI – Figma Prototype
-- 🔋 Variable DC Power Supply using LM2596
+- 📡 Mini CNC Machine  
+- 🎙️ JARVIS Voice Assistant  
+- 🎨 Glassmorphism Login UI (Figma)  
+- 🔋 Variable DC Power Supply  
 
 ---
 
