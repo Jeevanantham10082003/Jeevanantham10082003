@@ -35,7 +35,7 @@
 
 ## 🛠️ Tech Stack
 <p align="center">
-<img src="https://skillicons.dev/icons?i=html,css,java,js,firebase,SQL" />
+<img src="https://skillicons.dev/icons?i=html,css,js,firebase,git,github,vscode,figma,ps" />
 </p>
 
 ---
@@ -47,25 +47,26 @@
 
 ---
 
-## 🚀 Featured Project
-<p align="center">
-  <a href="https://github.com/Jeevanantham10082003/jarvis-assistant">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Jeevanantham10082003&repo=jarvis-assistant&theme=radical" />
-  </a>
-</p>
+## 🚀 Projects
+- 🌱 Smart Greenhouse Web App  
+- 🤖 IoT Based Smart Systems  
+- 📡 Mini CNC Machine  
+- 🎙️ JARVIS Voice Assistant  
+- 🎨 Glassmorphism Login UI (Figma)  
+- 🔋 Variable DC Power Supply  
 
 ---
 
 ## 📊 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Jeevanantham10082003&show_icons=true&theme=radical" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Jeevanantham10082003&show_icons=true&theme=radical&cache_seconds=1800" />
 </p>
 
 ---
 
 ## 🔥 GitHub Streak
 <p align="center">
-  <img src="https://streak-stats.demolab.com/?user=Jeevanantham10082003&theme=radical" />
+  <img src="https://streak-stats.demolab.com?user=Jeevanantham10082003&theme=radical" />
 </p>
 
 ---
