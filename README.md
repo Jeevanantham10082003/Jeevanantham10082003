@@ -64,9 +64,9 @@
 
 ---
 
-## 🔥 GitHub Streak
+## 📊 GitHub Stats
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=Jeevanantham10082003&theme=radical" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=Jeevanantham10082003&show_icons=true&theme=radical" />
 </p>
 
 ---
