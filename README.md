@@ -64,10 +64,6 @@
 
 ---
 
-<img src="https://github-readme-stats-sigma-five.vercel.app/api?username=Jeevanantham10082003&show_icons=true&theme=radical" />
-
----
-
 ## 🎯 Contribution Graph
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Jeevanantham10082003&theme=react-dark" />
