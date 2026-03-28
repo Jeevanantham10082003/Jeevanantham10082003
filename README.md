@@ -2,7 +2,7 @@
 <h3 align="center">🚀 Frontend Developer | ECE Student | UI/UX Designer</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=00C6FF&size=25&center=true&vCenter=true&width=500&lines=Frontend+Developer;IoT+Builder;UI%2FUX+Designer;Problem+Solver" />
+  <img src="https://readme-typing-svg.herokuapp.com?color=00C6FF&size=25&center=true&vCenter=true&width=500&lines=Frontend+Developer;IoT+Builder;UI%2FUX+Designer" />
 </p>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00c6ff,100:0072ff&height=200&section=header&text=Jeevanantham&fontSize=40&fontColor=ffffff" />
@@ -36,17 +36,17 @@
 ## 🛠️ Tech Stack
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,express,firebase,mongodb,git,github,vscode,figma,ps" />
+<img src="https://skillicons.dev/icons?i=html,css,js,firebase,git,github,vscode,figma,ps" />
 </p>
 
 ---
 
-## 🚀 Featured Projects
+## 🛠️ Tools 
 
 <p align="center">
-  <a href="https://github.com/Jeevanantham10082003">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Jeevanantham10082003&repo=smart-greenhouse-web&theme=radical" />
-  </a>
+<img src="https://toolsicon.dev/icons?i=git,github,vscode,figma,ps" />
+</p>
+
   <a href="https://github.com/Jeevanantham10082003">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=Jeevanantham10082003&repo=jarvis-assistant&theme=radical" />
   </a>
@@ -76,22 +76,6 @@
 
 <p align="center">
   <img src="https://streak-stats.demolab.com/?user=Jeevanantham10082003&theme=radical" />
-</p>
-
----
-
-## 🏆 Top Languages
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jeevanantham10082003&layout=compact&theme=radical" />
-</p>
-
----
-
-## 🧠 LeetCode Stats
-
-<p align="center">
-  <img src="https://leetcard.jacoblin.cool/your-leetcode-username?theme=dark&font=Karma" />
 </p>
 
 ---
