@@ -44,7 +44,7 @@
 ## 🛠️ Tools 
 
 <p align="center">
-<img src="https://toolsicon.dev/icons?i=git,github,vscode,figma,ps" />
+<img src="https://skillicons.dev/icons?i=git,github,vscode,figma,ps" />
 </p>
 
   <a href="https://github.com/Jeevanantham10082003">
