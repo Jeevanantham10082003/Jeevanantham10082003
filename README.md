@@ -35,7 +35,7 @@
 
 ## 🛠️ Tech Stack
 <p align="center">
-<img src="https://skillicons.dev/icons?i=html,css,java,js,firebase,sql" />
+<img src="https://skillicons.dev/icons?i=html,css,java,js,firebase,mysql" />
 </p>
 
 ---
