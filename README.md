@@ -34,22 +34,22 @@
 ---
 
 ## 🛠️ Tech Stack
-
 <p align="center">
-<img src="https://skillicons.dev/icons?i=html,css,js,firebase,git,github,vscode,figma,ps" />
+<img src="https://skillicons.dev/icons?i=html,css,java,js,firebase,SQL" />
 </p>
 
 ---
 
-## 🛠️ Tools 
-
+## 🧰 Tools 
 <p align="center">
 <img src="https://skillicons.dev/icons?i=git,github,vscode,figma,ps" />
 </p>
 
 ---
 
-  <a href="https://github.com/Jeevanantham10082003">
+## 🚀 Featured Project
+<p align="center">
+  <a href="https://github.com/Jeevanantham10082003/jarvis-assistant">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=Jeevanantham10082003&repo=jarvis-assistant&theme=radical" />
   </a>
 </p>
@@ -57,7 +57,6 @@
 ---
 
 ## 📊 GitHub Stats
-
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Jeevanantham10082003&show_icons=true&theme=radical" />
 </p>
@@ -65,7 +64,6 @@
 ---
 
 ## 🔥 GitHub Streak
-
 <p align="center">
   <img src="https://streak-stats.demolab.com/?user=Jeevanantham10082003&theme=radical" />
 </p>
@@ -73,7 +71,6 @@
 ---
 
 ## 🎯 Contribution Graph
-
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Jeevanantham10082003&theme=react-dark" />
 </p>
