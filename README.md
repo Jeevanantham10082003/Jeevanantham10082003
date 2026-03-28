@@ -59,7 +59,7 @@
 
 ## 📊 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Jeevanantham10082003&show_icons=true&theme=radical&cache_seconds=1800" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Jeevanantham10082003&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&count_private=true" />
 </p>
 
 ---
