@@ -1,6 +1,10 @@
 <h1 align="center">Hi 👋, I'm Jeevanantham</h1>
 <h3 align="center">🚀 Frontend Developer | ECE Student | UI/UX Designer</h3>
 
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?color=00C6FF&size=25&center=true&vCenter=true&width=500&lines=Frontend+Developer;IoT+Builder;UI%2FUX+Designer;Problem+Solver" />
+</p>
+
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00c6ff,100:0072ff&height=200&section=header&text=Jeevanantham&fontSize=40&fontColor=ffffff" />
 
 ---
@@ -31,29 +35,37 @@
 
 ## 🛠️ Tech Stack
 
-### 🚀 Frontend
-<p>
-<img src="https://skillicons.dev/icons?i=html,css,js" />
+<p align="center">
+<img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,express,firebase,mongodb,git,github,vscode,figma,ps" />
 </p>
 
-### ⚙️ Backend
-<p>
-<img src="https://skillicons.dev/icons?i=nodejs,express" />
+---
+
+## 🚀 Featured Projects
+
+<p align="center">
+  <a href="https://github.com/Jeevanantham10082003">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Jeevanantham10082003&repo=smart-greenhouse-web&theme=radical" />
+  </a>
+  <a href="https://github.com/Jeevanantham10082003">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Jeevanantham10082003&repo=jarvis-assistant&theme=radical" />
+  </a>
 </p>
 
-### 🗄️ Database
-<p>
-<img src="https://skillicons.dev/icons?i=firebase" />
-</p>
+---
 
-### 🧰 Tools
-<p>
-<img src="https://skillicons.dev/icons?i=git,github,vscode,figma,ps" />
+## 🌍 Live Portfolio Preview
+
+<p align="center">
+  <a href="https://jeevanantham10082003.github.io/portfolio">
+    <img src="https://image.thum.io/get/width/800/https://jeevanantham10082003.github.io/portfolio" />
+  </a>
 </p>
 
 ---
 
 ## 📊 GitHub Stats
+
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Jeevanantham10082003&show_icons=true&theme=radical" />
 </p>
@@ -61,6 +73,7 @@
 ---
 
 ## 🔥 GitHub Streak
+
 <p align="center">
   <img src="https://streak-stats.demolab.com/?user=Jeevanantham10082003&theme=radical" />
 </p>
@@ -68,19 +81,26 @@
 ---
 
 ## 🏆 Top Languages
+
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jeevanantham10082003&layout=compact&theme=radical" />
 </p>
 
 ---
 
-## 🚀 Projects
-- 🌱 Smart Greenhouse Web App  
-- 🤖 IoT Based Smart Systems  
-- 📡 Mini CNC Machine  
-- 🎙️ JARVIS Voice Assistant  
-- 🎨 Glassmorphism Login UI (Figma)  
-- 🔋 Variable DC Power Supply  
+## 🧠 LeetCode Stats
+
+<p align="center">
+  <img src="https://leetcard.jacoblin.cool/your-leetcode-username?theme=dark&font=Karma" />
+</p>
+
+---
+
+## 🎯 Contribution Graph
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Jeevanantham10082003&theme=react-dark" />
+</p>
 
 ---
 
