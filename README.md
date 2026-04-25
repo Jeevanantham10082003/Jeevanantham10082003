@@ -27,9 +27,9 @@
 ## 🧑‍💻 About Me
 - 🎓 ECE Student passionate about tech  
 - 💻 Building **Embedded Systems & IoT Projects**  
-- 🌱 Learning **Full Stack Development**  
+- 🌱 Learning **Frontend Development**  
 - ⚡ Love solving real-world problems  
-- 🎯 Goal: Software Engineer  
+- 🎯 Goal: Software Engineer, Hardware Engineer 
 
 ---
 
@@ -42,7 +42,7 @@
 
 ## 🧰 Tools 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=git,github,vscode,figma,ps" />
+<img src="https://skillicons.dev/icons?i=git,github,vscode,figma,ps,arduino" />
 </p>
 
 ---
@@ -53,7 +53,8 @@
 - 📡 Mini CNC Machine  
 - 🎙️ JARVIS Voice Assistant  
 - 🎨 Glassmorphism Login UI (Figma)  
-- 🔋 Variable DC Power Supply  
+- 🔋 Variable DC Power Supply
+-    Churn perdicition system
 
 ---
 
