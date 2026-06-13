@@ -50,8 +50,7 @@
 ## 🚀 Projects
 - 🌱 Smart Greenhouse Web App  
 - 🤖 IoT Based Smart Systems  
-- 📡 Mini CNC Machine  
-- 🎙️ JARVIS Voice Assistant  
+- 📡 Mini CNC Poltter
 - 🎨 Glassmorphism Login UI (Figma)  
 - 🔋 Variable DC Power Supply
 -    Churn perdicition system
