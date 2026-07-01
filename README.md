@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Jeevanantham</h1>
-<h3 align="center">🚀 Frontend Developer | ECE Student | UI/UX Designer</h3>
+<h3 align="center">🚀  DYI Bulder | ECE Student | Embedded Systems </h3>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?color=00C6FF&size=25&center=true&vCenter=true&width=500&lines=Frontend+Developer;IoT+Builder;UI%2FUX+Designer" />
