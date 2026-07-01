@@ -2,7 +2,7 @@
 <h3 align="center">🚀  DYI Bulder | ECE Student | Embedded Systems </h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=00C6FF&size=25&center=true&vCenter=true&width=500&lines=Frontend+Developer;IoT+Builder;UI%2FUX+Designer" />
+  <img src="https://readme-typing-svg.herokuapp.com?color=00C6FF&size=25&center=true&vCenter=true&width=500&lines=IoT+Builder;" />
 </p>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00c6ff,100:0072ff&height=200&section=header&text=Jeevanantham&fontSize=40&fontColor=ffffff" />
