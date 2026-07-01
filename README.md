@@ -27,9 +27,8 @@
 ## 🧑‍💻 About Me
 - 🎓 ECE Student passionate about tech  
 - 💻 Building **Embedded Systems & IoT Projects**  
-- 🌱 Learning **Frontend Development**  
+- 🌱 Learning
 - ⚡ Love solving real-world problems  
-- 🎯 Goal: Software Engineer, Hardware Engineer 
 
 ---
 
